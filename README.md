@@ -1,2 +1,5 @@
-# GST-Calculator
-I have made GST calculator with help of c++ and visual basic.Currently we all know very well indian goverment always ask for GST so this software helpful for small shopkeeper to calculate price of goods including with GST.
+# Simple GST-Calculator
+I have made this GST calculator with help of c++ and visual basic.
+<img src="Image/setup.JPG" width="100%" height="100%">
+<img src="Image/install.JPG" width="100%" height="100%">
+<img src="Image/main.JPG" width="100%" height="100%">
